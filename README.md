@@ -42,7 +42,8 @@
 ## Exemple de classe abstraite
 
 
-``abstract class Fruits
+``
+abstract class Fruits
 {
   abstract void taste();
 }
@@ -59,7 +60,8 @@ public class AbstractDemo {
     Apple a = new Apple();
     a.taste();
   }
-}``
+}
+``
 
 
 ## schema explicatif 
