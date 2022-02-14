@@ -9,3 +9,4 @@
 - sert a initier les methodes des classes filles de la class abstract.
 - se sont les classes filles qui decrivent la methode propre a elle-même.
 - dans les classes filles on utilise le mot clef @override afin de reecrir sur la methode vide de la classe abstract
+![abstract](https://user-images.githubusercontent.com/66671034/153869372-ca7af900-0081-4bbc-82d4-539b6f582733.png)
