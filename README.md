@@ -26,7 +26,7 @@
 ## Syntaxe de la classe abstraite
 
 
- ``
+
  abstract class class_name {
 
        abstract return_type methodname(); //abstract method
@@ -35,14 +35,14 @@
        
        }
 }
-``
+
 
 
 
 ## Exemple de classe abstraite
 
 
-``
+
 abstract class Fruits
 {
   abstract void taste();
@@ -61,7 +61,7 @@ public class AbstractDemo {
     a.taste();
   }
 }
-``
+
 
 
 ## schema explicatif 
