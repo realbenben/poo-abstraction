@@ -5,7 +5,7 @@
 
 - c'est l'un des concepts de la POO.
 
-- on ne peut pas creer d'objet directement depuis la classe abstraite.
+- On ne peut pas instancier une classe abstraite
 
 - La classe abstraite peut avoir des méthodes abstraites et des méthodes non abstraites. (communes et utilisables dans les classes filles)
 
