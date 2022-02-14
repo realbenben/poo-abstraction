@@ -1,4 +1,4 @@
-# p.o.o-abstraction
+# p.o.o  abstraction
 
 
 ## le concept
